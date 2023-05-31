@@ -1,0 +1,71 @@
+
+*******************************************************************************************
+CODES
+
+# Multiplication
+x = 5
+y = 3
+result_multiply = x * y
+print(f"The result of multiplication is: {result_multiply}")
+
+# Addition
+a = 2
+b = 4
+result_addition = a + b
+print(f"The result of addition is: {result_addition}")
+
+minutes = 120
+hours = minutes / 60
+print(f"{minutes} minutes is equal to {hours} hours")
+
+
+The result of multiplication is: 15
+The result of addition is: 6
+
+120 minutes is equal to 2.0 hours
+
+****************************************************************************************************
+Markdown CELLS
+
+2-title.png
+# title here
+this is an introductory sentence for exercise 3.
+1. Python
+2. R
+3. SQL
+4. Julia
+
+
+This is the introductory sentence for Exercise 5.
+
+1. NumPy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Scikit-learn
+
+| Tool        | Description                      |
+|-------------|----------------------------------|
+| Python      | Programming language             |
+| R           | Statistical programming language |
+| SQL         | Database querying language       |
+| TensorFlow  | Machine learning library         |
+| PyTorch     | Deep learning library            |
+| Spark       | Distributed data processing      |
+| Tableau     | Data visualization tool          |
+| Jupyter     | Notebook interface               |
+
+Here are a few arithmetic expression examples:
+
+- Addition: 2 + 3 = 5
+- Subtraction: 7 - 4 = 3
+- Multiplication: 5 * 6 = 30
+- Division: 10 / 2 = 5
+
+This is an introductory sentence for the exercise.
+
+- APPLE 1
+- ORANGE 2
+- GRAPE 3
+
+**Author: John Doe**
